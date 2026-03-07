@@ -1,2 +1,7 @@
-# Portfolio
-A portfolio of my coding projects
+I am a First Class Honours graduate of the Higher Diploma in Software Development at ATU Galway, with a strong foundation in software engineering, networking, databases, and web technologies, complemented by experience working in highly regulated, compliance-driven environments.
+
+My academic background spans both technology and bioscience. Alongside my software development qualification, I hold a First Class Honours degree in Bioscience, where I developed a highly analytical and structured approach to problem-solving through laboratory research, data analysis, and troubleshooting. My final-year thesis, which received an A grade, focused on the investigation of NF-κB’s pro-survival role in endometriosis and required meticulous documentation, data integrity, and critical evaluation—skills directly transferable to technical and operational roles.
+
+Through my Higher Diploma, I gained hands-on experience with Java, Python, SQL, JavaScript, HTML, CSS, React, and full-stack web development. Key projects included the design and implementation of a full-stack e-commerce web application and an enterprise Cisco network featuring multi-VLAN architecture, routing, switching, and security best practices. I am also currently pursuing Cisco Certified Network Associate (CCNA) accreditation to further strengthen my networking and infrastructure knowledge.
+
+Professionally, I have worked in GMP-regulated environments as an R&D Laboratory Technician and Quality Control Analyst, where I collaborated closely with engineering, quality, manufacturing, and technical teams. These roles required strong attention to detail, structured testing, incident investigation, audit readiness, and clear communication with both technical and non-technical stakeholders. I also bring experience in data analysis, reporting, governance, and continuous process improvement from my time as a Data Analyst.
